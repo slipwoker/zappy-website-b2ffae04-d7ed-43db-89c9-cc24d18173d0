@@ -7,65 +7,65 @@
 ## Pages
 
 ### Home
-https://dym-sport-b2ffae04.zappy5.app
+https://example.com
 DYM Sport powers your ride and your winter adventures with elite cycling and snow gear. Explore academy sports and outdoor performance equipment built for champions. Shop now!
 
 ### About
-https://dym-sport-b2ffae04.zappy5.app/about
+https://example.com/about
 Discover the bold story behind DYM Sport — a performance-driven brand crafted for cycling and winter sports warriors who demand more from their academy sports and outdoors gear.
 
 ### Sport Worlds
-https://dym-sport-b2ffae04.zappy5.app/sport-worlds
+https://example.com/sport-worlds
 From icy mountain slopes to fast cycling tracks, DYM Sport&#39;s Sport Worlds unlocks your full potential. Find academy sports outdoors collections engineered for every extreme condition.
 
 ### Contact
-https://dym-sport-b2ffae04.zappy5.app/contact
+https://example.com/contact
 Ready to elevate your game? Reach out to DYM Sport today and get expert guidance on academy sports and outdoor gear tailored to your cycling or winter sports ambitions. Let&#39;s talk!
 
 ### Products
-https://dym-sport-b2ffae04.zappy5.app/products
+https://example.com/products
 Our Products - DYM Sport
 
 ### Cart
-https://dym-sport-b2ffae04.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://dym-sport-b2ffae04.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://dym-sport-b2ffae04.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://dym-sport-b2ffae04.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://dym-sport-b2ffae04.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://dym-sport-b2ffae04.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - DYM Sport
 
 ### Category
-https://dym-sport-b2ffae04.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - DYM Sport
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://dym-sport-b2ffae04.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://dym-sport-b2ffae04.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://dym-sport-b2ffae04.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ Sports & Outdoor Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://dym-sport-b2ffae04.zappy5.app/sitemap.xml
-- Robots: https://dym-sport-b2ffae04.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://dym-sport-b2ffae04.zappy5.app/llms-full.txt
-- Products (JSON): https://dym-sport-b2ffae04.zappy5.app/products.json
-- Products (Google Merchant RSS): https://dym-sport-b2ffae04.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
