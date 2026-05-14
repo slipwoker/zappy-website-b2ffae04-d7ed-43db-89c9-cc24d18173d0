@@ -1,0 +1,100 @@
+# DYM Sport — Generative Engine Optimization Map
+
+> DYM Sport is a sports gear brand specializing in cycling and winter sports products. The brand uses a bold, energetic color palette of grey, black, bright green, and white, suggesting a modern, performance-driven identity. The business has an established logo, indicating a defined visual brand presence aimed at active outdoor sports enthusiasts.
+
+---
+
+## Pages
+
+### Home
+https://dym-sport-b2ffae04.zappy5.app
+DYM Sport powers your ride and your winter adventures with elite cycling and snow gear. Explore academy sports and outdoor performance equipment built for champions. Shop now!
+
+### About
+https://dym-sport-b2ffae04.zappy5.app/about
+Discover the bold story behind DYM Sport — a performance-driven brand crafted for cycling and winter sports warriors who demand more from their academy sports and outdoors gear.
+
+### Sport Worlds
+https://dym-sport-b2ffae04.zappy5.app/sport-worlds
+From icy mountain slopes to fast cycling tracks, DYM Sport&#39;s Sport Worlds unlocks your full potential. Find academy sports outdoors collections engineered for every extreme condition.
+
+### Contact
+https://dym-sport-b2ffae04.zappy5.app/contact
+Ready to elevate your game? Reach out to DYM Sport today and get expert guidance on academy sports and outdoor gear tailored to your cycling or winter sports ambitions. Let&#39;s talk!
+
+### Products
+https://dym-sport-b2ffae04.zappy5.app/products
+Our Products - DYM Sport
+
+### Cart
+https://dym-sport-b2ffae04.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://dym-sport-b2ffae04.zappy5.app/checkout
+Checkout
+
+### Login
+https://dym-sport-b2ffae04.zappy5.app/login
+Customer Login
+
+### Account
+https://dym-sport-b2ffae04.zappy5.app/account
+My Account
+
+### Order Success
+https://dym-sport-b2ffae04.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://dym-sport-b2ffae04.zappy5.app/product/:slug
+Product Details - DYM Sport
+
+### Category
+https://dym-sport-b2ffae04.zappy5.app/category/:slug
+Products - DYM Sport
+
+## Legal & Policy
+
+### Privacy Policy
+https://dym-sport-b2ffae04.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dym-sport-b2ffae04.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dym-sport-b2ffae04.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DYM Sport
+DYM Sport is a sports gear brand specializing in cycling and winter sports products. The brand uses a bold, energetic color palette of grey, black, bright green, and white, suggesting a modern, performance-driven identity. The business has an established logo, indicating a defined visual brand presence aimed at active outdoor sports enthusiasts.
+
+## Target Audience
+- Cycling and winter sports enthusiasts
+- Cycling Enthusiasts
+- Winter Sports Lovers
+
+## Industry
+Sports & Outdoor Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://dym-sport-b2ffae04.zappy5.app/sitemap.xml
+- Robots: https://dym-sport-b2ffae04.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://dym-sport-b2ffae04.zappy5.app/llms-full.txt
+- Products (JSON): https://dym-sport-b2ffae04.zappy5.app/products.json
+- Products (Google Merchant RSS): https://dym-sport-b2ffae04.zappy5.app/product-feed.xml
